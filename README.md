@@ -13,10 +13,3 @@ Execute migrations and seed data - `php artisan migrate --seed`
 **Run the project**
 Start vite server - `npm run dev`
 Start Artisan server - `php artisan serve`
-
-*Use My account*
-**Email: myth.lebronjames@outlook.com**
-**Password: myth.lebronjames@outlook.com**
-*or*
-**Email: myth.kalasag@gmail.com**
-**Password: myth.kalasag@gmail.com**
