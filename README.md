@@ -1,4 +1,3 @@
-**Lebron James L. Maranan**                                                                       *III BSIT A*
 **IT 23 - Web System and Technologies 2**                                                         *Midterms Examination*
 
 **How to set up the project**
